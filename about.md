@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Moto
+
+The test is in the taste!
 
 ### More Information
 
